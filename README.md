@@ -5,13 +5,13 @@ Este projeto tem o obejtivo de demonstrar o conteudo aprendido em sala de aula n
 <div align=center>
 
 ## Modelo Conceitual
-![Modelo conceitual](./imagens/conceitual.png)
+![Modelo conceitual](./IMAGENS/CONCEITUAL.png)
 </div>
 
 <div align=center>
 
 ## Modelo Logico
-![Modelo conceitual](./imagens/logico.png)
+![Modelo conceitual](./IMAGENS/LOGICO.png)
 </div>
 
 <div align=center>
